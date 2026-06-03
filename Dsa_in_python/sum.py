@@ -2,4 +2,5 @@ a=int(input("Enter first number:"))
 b=int(input("Enter second number:"))
 #sum is
 print("sum:",a+b)
-#thank you
+#thank
+#thank youuu
